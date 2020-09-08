@@ -2,7 +2,7 @@
  * Name: Tony Barrera
  * CptS 233: MicroAssignment #1
  * Date: 9/7/2020
- * gitRepo URL: 
+ * gitRepo URL: https://github.com/antonioseet/MA1.git
  */
 
 import java.util.Scanner;
